@@ -1,2 +1,3 @@
 # q-s
   "Dive into the world of quizzes with our Python-based game! This interactive quiz game lets you test your knowledge while having fun. With Python, we've crafted an engaging experience where you can challenge yourself and your friends. Get ready to learn, compete, and enjoy endless quizzes right from your command line!"
+"Welcome to our Python-based Quiz Game! With just Python, we've created an immersive quiz experience for you. Test your knowledge, challenge your friends, and have fun right from your command line. Get ready to embark on a journey of learning and excitement with our interactive quiz game!"
